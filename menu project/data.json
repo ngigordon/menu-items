@@ -1,0 +1,110 @@
+[
+    {
+        "id":1,
+        "title":"fufu and njama",
+        "category":"breakfast",
+        "price":15.99,
+        "img":"./img/food1.jpg",
+        "desc":"infact the if you have never tasted fofu corn and njama njama it means you have never tested something good"
+    },
+    {
+        "id":2,
+        "title":"achu source",
+        "category":"breakfast",
+        "price":15.99,
+        "img":"./img/food2.jpg",
+        "desc":"infact the if you have never tasted fofu corn and njama njama it means you have never tested something good"
+    },
+    {
+        "id":3,
+        "title":"cati cati",
+        "category":"launch",
+        "price":15.99,
+        "img":"./img/food3.jpg",
+        "desc":"infact the if you have never tasted fofu corn and njama njama it means you have never tested something good"
+
+    },
+    {
+        "id":4,
+        "title":"cabbage",
+        "category":"launch",
+        "price":15.99,
+        "img":"./img/food4.jpg",
+        "desc":"infact the if you have never tasted fofu corn and njama njama it means you have never tested something good"
+        
+    },
+    {
+        "id":5,
+        "title":"garri and okro",
+        "category":"dinner",
+        "price":15.99,
+        "img":"./img/food5.jpeg",
+        "desc":"infact the if you have never tasted fofu corn and njama njama it means you have never tested something good"
+
+    },
+    {
+        "id":6,
+        "title":"rice and beans",
+        "category":"dinner",
+        "price":20.99,
+        "img":"./img/food6.jpeg",
+        "desc":"infact the if you have never tasted fofu corn and njama njama it means you have never tested something good"
+
+    },
+    {
+        "id":7,
+        "title":"corn and beans alias cornchaf",
+        "category":"super",
+        "price":18.99,
+        "img":"./img/food7.jpeg",
+        "desc":"infact the if you have never tasted fofu corn and njama njama it means you have never tested something good"
+
+    },
+    {
+        "id":8,
+        "title":"pumpkin leave and fufu corn",
+        "category":"super",
+        "price":18.99,
+        "img":"./img/food8.jpeg",
+        "desc":"infact the if you have never tasted fofu corn and njama njama it means you have never tested something good"
+
+    },
+    {
+        "id":9,
+        "title":"plantain and ndole",
+        "category":"stake",
+        "price":25.99,
+        "img":"./img/food9.jpeg",
+        "desc":"infact the if you have never tasted fofu corn and njama njama it means you have never tested something good"
+
+    },
+    {
+        "id":10,
+        "title":"fufu and nkwi",
+        "category":"stake",
+        "price":"$5.99",
+        "img":"./img/food10.jpeg",
+        "desc":"infact the if you have never tasted fofu corn and njama njama it means you have never tested something good"
+
+    },
+    {
+        "id":10,
+        "title":"fufu and nkwi",
+        "category":"evening",
+        "price":"$5.99",
+        "img":"./img/food5.jpeg",
+        "desc":"infact the if you have never tasted fofu corn and njama njama it means you have never tested something good"
+
+    },
+    {
+        "id":10,
+        "title":"fufu and nkwi",
+        "category":"next day",
+        "price":"$5.99",
+        "img":"./img/food1.jpg",
+        "desc":"infact the if you have never tasted fofu corn and njama njama it means you have never tested something good"
+
+    }
+
+   
+]
